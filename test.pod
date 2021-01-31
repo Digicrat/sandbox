@@ -1,0 +1,9 @@
+=head1 SYNOPSIS
+
+This is a test Perl POD file
+
+=head1 Debug
+
+Does server format POD files?
+
+=head2 Subheading
